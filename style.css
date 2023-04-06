@@ -1,1 +1,28 @@
-
+p {
+color: #5A5A5A;
+  font: Garamond;
+  {
+ul {
+  background: #CCFFFF;
+    padding: 20px;
+    }
+ol {
+  background: #EBB8DD;
+    padding: 20px;
+    }
+h1 {
+  text-align: center;
+  margin: auto;
+    }
+header {
+    font-size; 22px;
+  font weight: 800;
+    }
+body {
+  font-size: 16px;
+  font: Garamond;
+    }
+footer {
+  text-align: center;
+  background-color: #000000;
+    }
